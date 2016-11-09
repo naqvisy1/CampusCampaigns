@@ -1,0 +1,69 @@
+Project Name: Campus Campaigns
+
+Group members: Grant Levene, Syed Naqvi, Josh Platt, Caleb Swanson
+
+Contributions:
+    Proposal:
+        Grant (33%), Syed (33%), Josh (33%)
+    Plan & Wireframes:
+        Grant (33%), Syed (33%), Josh (33%)
+    Demo:
+        Grant (25%), Syed (25%), Josh (25%), Caleb (25%)
+    Final Submission:
+        Grant (45%), Syed (10%), Josh (45%), Caleb (0%)
+
+        ** Caleb made 0 contributions to the project. He remained silent during planning stages, offered no feedback
+        on the wireframes or project requirements, and made 0 commits on the actual project. Our attempts
+        to include him at every phase were usually met with silent acknowledgement, but no actions. In general, he never
+        spoke to us unless we asked him a question. We made sure that he was aware of our plans and time tables, yet
+        he made no effort to communicate with us. The largest contribution he made to the project was his section during
+        our project demo.
+
+Scope:
+    CAMPAIGN NAVIGATION:
+        [X] Organize campaigns by college / institution
+        [X] College bio
+        [X] Sort campaigns by num. pledges, name, description, or author
+
+
+    CAMPAIGN INFO:
+        [X] Campaign landing page
+            [X] Title
+            [X] Subject
+            [X] Description
+            [] Third-party resources
+            [~] Author contact info
+                -Until a campaign reaches 1000 pledges, only the author's name will be publicly visible.
+            [~] Donate
+                -Upon implementation, we discovered we would need a paypal business account and opted to not complete
+                this portion since it would be beyond the scope of a class project.
+            [X] Share
+            [X] Pledge
+            [X] Comments / Comment submission
+
+            [X] Report campaign to admins
+
+        [X] Edit by author functionality
+        [] Delete by author functionality
+        [] Dispute campaign report
+        [X] Admin-only notes on a campaign
+
+    USER INFO:
+        [X] list of user campaigns
+        [X] list of user comments
+
+        [X] Report user
+        [X] Admin-only notes on a user
+
+    ADMINISTRATION:
+        [X] Disputed campaigns list (disputed: true, rejected: true or false)
+        [X] Rejected campaigns list (disputed: true, rejected, true)
+        [X] Reported users list (reported: true, accountLocked: false)
+        [X] Banned users list (reported: true, accountLocked: true)
+
+        [X] Campaign standing change functionality
+        [X] User standing change functionality
+
+    [X] = Fully Functional, [] = Not Implemented, [~] = Partially Implemented
+
+Repository: http://cognosis.cas.msu.edu:8888/levenegr/campuscampaigns.git

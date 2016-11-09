@@ -1,0 +1,42 @@
+===== TO-DO =====
+
+CAMPAIGN NAVIGATION:
+    [X] Organize campaigns by college / institution
+    [] Give resources / links to local political groups
+        -Needs more content, but code is there
+
+CAMPAIGN INFO:
+    [] Campaign landing page
+        [X] Title
+        [X] Subject
+        [X] Description
+        [] Further Reading
+        [] Contact / author info
+        [~] Donate
+        [X] Share
+        [X] Pledge
+        [X] Comments / Comment submission
+
+        [X] Report campaign to admins
+
+    [X] Edit by author functionality
+    [X] Admin-only notes on a campaign
+
+USER INFO:
+    [X] list of user campaigns
+    [X] list of user comments
+
+    [X] Report user
+    [X] Admin-only notes on a user
+
+CAMPAIGN ADMINISTRATION:
+    [X] Disputed campaigns list (disputed: true, rejected: true or false)
+    [X] Rejected campaigns list (disputed: true, rejected, true)
+    [X] Reported users list (reported: true, accountLocked: false)
+    [X] Banned users list (reported: true, accountLocked: true)
+
+    [X] Campaign standing change functionality
+
+
+
+	
